@@ -83,5 +83,17 @@
         <file>qml-material/modules/Material/Extras/js/listutils.js</file>
         <file>qml-material/modules/Material/Extras/js/promises.js</file>
         <file>qml-material/modules/Material/Extras/js/utils.js</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/ApplicationWindowStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/ButtonStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/CheckBoxStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/Material.pro</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/ProgressBarStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/qmldir</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/RadioButtonStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/SliderStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/SwitchStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/TextFieldStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/ToolBarStyle.qml</file>
+        <file>qml-material/modules/QtQuick/Controls/Styles/Material/ToolButtonStyle.qml</file>
     </qresource>
 </RCC>
