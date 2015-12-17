@@ -78,5 +78,10 @@
         <file>qml-material/modules/Material/View.qml</file>
         <file>qml-material/modules/Material/Wave.qml</file>
         <file>qml-material/modules/Material/Window.qml</file>
+        <file>qml-material/modules/Material/Extras/js/dateutils.js</file>
+        <file>qml-material/modules/Material/Extras/js/httplib.js</file>
+        <file>qml-material/modules/Material/Extras/js/listutils.js</file>
+        <file>qml-material/modules/Material/Extras/js/promises.js</file>
+        <file>qml-material/modules/Material/Extras/js/utils.js</file>
     </qresource>
 </RCC>
