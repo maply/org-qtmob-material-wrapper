@@ -19,5 +19,3 @@ A wrapper to use [qml-material](https://github.com/papyros/qml-material) as a qr
 
 You can customize the qml-material-qrc.qrc file to add/remove components and resources as needed.
 For example, for mobile deployment you might want to omit unused fonts and icons.
-
-To update qml-material to the latest version, navigate to the submodule's folder (`cd lib/qml-material-qrc`) and run `git submodule update`
