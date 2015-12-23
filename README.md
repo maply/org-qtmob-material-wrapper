@@ -12,8 +12,7 @@ A wrapper to use [qml-material](https://github.com/papyros/qml-material) as a qr
 4. download qml-material:  
 `git submodule init; git submodule update`
 5. in your app's .pro file, add  
-`include(lib/qml-material-qrc/qml-material-qrc.pri)`
-6. in your app's .pro file, add  
+`include(lib/qml-material-qrc/qml-material-qrc.pri)`  
 `QML_IMPORT_PATH += $$PWD/lib/qml-material-qrc/qml-material/modules`
 7. in your app's main.cpp file, add  
 `engine.addImportPath("qrc:/qml-material/modules");`
