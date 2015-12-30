@@ -1027,5 +1027,6 @@
         <file>qml-material/modules/Material/icons/toggle/star.svg</file>
         <file>qml-material/modules/Material/icons/toggle/star_border.svg</file>
         <file>qml-material/modules/Material/icons/toggle/star_half.svg</file>
+        <file>qml-material/modules/Material/WindowDecorations.qml</file>
     </qresource>
 </RCC>
