@@ -14,7 +14,7 @@ A wrapper to use [qml-material](https://github.com/papyros/qml-material) as a qr
 5. in your app's .pro file, add  
 `include(lib/org/qtmob/material/wrapper/org_qtmob_material_wrapper.pri)`
 7. in your app's main.cpp file, add  
-`engine.addImportPath("qrc:/qml-material/modules");`
+`engine.addImportPath("qrc:/org/qtmob/material/wrapper/qml-material/modules");`
 
 You can customize the org_qtmob_material_wrapper.qrc file to add/remove components and resources as needed.
 For example, for mobile deployment you might want to omit unused fonts and icons.
