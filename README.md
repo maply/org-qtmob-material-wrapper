@@ -1,4 +1,4 @@
-# qml-material-qrc
+# org.qtmob.material.wrapper
 A wrapper to use [qml-material](https://github.com/papyros/qml-material) as a qrc file.
 
 ## Usage
