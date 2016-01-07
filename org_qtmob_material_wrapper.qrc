@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/">
+    <qresource prefix="/org/qtmob/material/wrapper">
         <file>qml-material/modules/Material/Extras/AutomaticGrid.qml</file>
         <file>qml-material/modules/Material/Extras/CircleImage.qml</file>
         <file>qml-material/modules/Material/Extras/CircleMask.qml</file>
