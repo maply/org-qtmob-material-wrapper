@@ -6,13 +6,13 @@ A wrapper to use [qml-material](https://github.com/papyros/qml-material) as a qr
 1. create a git repo for your app:  
 `git init`
 2. in your app's repo, add qml-material-qrc as a git submodule:  
-`git submodule add https://github.com/maply/org.qtmob.material.wrapper lib/org.qtmob.material.wrapper`
+`git submodule add https://github.com/maply/org.qtmob.material.wrapper lib/org/qtmob/material/wrapper`
 3. navigate to the submodule's folder  
-`cd lib/org.qtmob.material.wrapper`
+`cd lib/org/qtmob/material/wrapper`
 4. download qml-material:  
 `git submodule init; git submodule update`
 5. in your app's .pro file, add  
-`include(lib/org.qtmob.material.wrapper/org_qtmob_material_wrapper.pri)`
+`include(lib/org/qtmob/material/wrapper/org_qtmob_material_wrapper.pri)`
 7. in your app's main.cpp file, add  
 `engine.addImportPath("qrc:/org/qtmob/material/wrapper/qml-material/modules");`
 
