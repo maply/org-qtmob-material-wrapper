@@ -1,6 +1,9 @@
 # org-qtmob-material-wrapper
 A wrapper to use [qml-material](https://github.com/papyros/qml-material) as a qrc file.
 
+**IMPORTANT: this wrapper is only useful for qml-material up to version 0.2.  
+qml-material 0.3 has its own qrc system.**
+
 ## Usage
 
 1. create a git repo for your app:  
